@@ -1,3 +1,3 @@
 # Omikuji
-#
-#Pending addition of CSS, apologies for bad visuals. 
+
+Pending addition of CSS, apologies for bad visuals. 
